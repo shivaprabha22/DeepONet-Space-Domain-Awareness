@@ -2,7 +2,7 @@
 
 Physics-Informed Neural Network (PINN) for J2-perturbed orbital mechanics. Learns satellite trajectories entirely from physics, without training data.
 
-**Author:** shivaprabha22 | **Institution:** MVS Government Degree College
+**Author:** shivaprabha22
 
 ## What This Project Does
 
@@ -42,7 +42,3 @@ Open `DeepONet_SDA_Engine.ipynb` in Google Colab. Run all cells.
 - [x] Phase 1: Baseline DeepONet + physics loss
 - [ ] Phase 2: Hard-IC ansatz, empirical n_eff, RAAN supervision → target <5 km
 - [ ] Phase 3: Multi-IC operator training (eccentric orbits, varying inclinations)
-
-## Author
-
-Shivaprabha
